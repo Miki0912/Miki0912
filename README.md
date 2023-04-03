@@ -9,7 +9,6 @@
 
 
 <p align="left">
-<a href="https://www.codewars.com/users/Miki0912/badges/small" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miki0912&show_icons=true&locale=en&layout=compact" alt="miki0912" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miki0912&show_icons=true&locale=en" alt="miki0912" /></p>
+<p>![Codewars](https://github.r2v.ch/codewars?user=Miki0912)</p>
 
