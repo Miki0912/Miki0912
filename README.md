@@ -9,6 +9,7 @@
 
 
 <p align="left">
+<a href="https://www.codewars.com/users/Miki0912/badges/small" target="blank"><img align="center"</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
