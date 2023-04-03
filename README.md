@@ -17,5 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miki0912&show_icons=true&locale=en&layout=compact" alt="miki0912" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miki0912&show_icons=true&locale=en" alt="miki0912" /></p>
-<p>src="https://github.r2v.ch/codewars?user=Miki0912"</p>
+<p><img align="center" src="https://github.r2v.ch/codewars?user=Miki0912" /></p>
 
